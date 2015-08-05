@@ -1,0 +1,17 @@
+{
+  "name": "ethereal-theme",
+  "title": "Theme Ethereal",
+  "description": "An immortal theme for the Brackets IDE, easy on the eyes and on the  conscience.",
+  "homepage": "https://github.com/MJefferson/BracketsEthereal",
+  "version": "1.0.0",
+  "author": "Martial James Jefferson <martial.jefferson@gmail.com> (http://mjefferson.github.io)",
+  "license": "MIT",
+  "theme": {
+    "file": "theme.less",
+    "dark": true,
+    "addModeClass": true
+  },
+  "keywords": [
+    "theme"
+  ]
+}
